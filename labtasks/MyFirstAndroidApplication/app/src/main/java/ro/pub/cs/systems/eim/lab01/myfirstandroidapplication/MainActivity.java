@@ -3,6 +3,7 @@ package ro.pub.cs.systems.eim.lab01.myfirstandroidapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.view.animation.AlphaAnimation;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
